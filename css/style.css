@@ -1,0 +1,51 @@
+.auto-arenda {
+    font-family: 'Roboto', sans-serif;
+}
+.blocks{
+    display: flex;
+}
+.title {
+
+}
+.block1 {
+}
+.block1__title {
+}
+.block1__list {
+    list-style: none;
+}
+.block1__item {
+}
+.block1__img {
+}
+.block1_text {
+}
+.block2 {
+    border-radius: 10px;
+    background: #44bb4ab0;
+    color: white;
+}
+.block2__textarea {
+}
+.block2__arend {
+}
+.block2__category {
+}
+.category__title {
+}
+.row1 {
+}
+.row2 {
+}
+.block2__btn {
+    margin-left: 10px;
+    margin-bottom: 15px;
+    border: 2px solid white;
+    border-radius: 25px;
+    color: white;
+    background: #2aa825 ;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
